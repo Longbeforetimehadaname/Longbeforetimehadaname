@@ -8,7 +8,7 @@ Teenager tinkering with anything tech-related — hardware, software, doesn't ma
 - Fun fact: I've spend more time setting up Computers, then I've done coding.
 
 ---
-<!--
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,7 +18,7 @@ Teenager tinkering with anything tech-related — hardware, software, doesn't ma
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
--->
+
 ---
 
 ## 🔧 What I'm Building
@@ -30,13 +30,13 @@ Teenager tinkering with anything tech-related — hardware, software, doesn't ma
 *(Swap these bullets for real repo links once you've got a few pinned — even small/rough ones count!)*
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Pixel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Longbeforetimehadaname&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Longbeforetimehadaname&layout=compact&theme=radical)
 ---
-
+-->
 ## 📫 Reach Me
 
 <!-- Add whatever you're comfortable sharing publicly, e.g.: -->
