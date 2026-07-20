@@ -33,9 +33,8 @@ Teenager tinkering with anything tech-related — hardware, software, doesn't ma
 
 ## 📊 GitHub Stats
 
-![Pixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longbeforetimehadaname&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Longbeforetimehadaname&layout=compact&theme=radical)
-
+![Pixel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Longbeforetimehadaname&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Longbeforetimehadaname&layout=compact&theme=radical)
 ---
 
 ## 📫 Reach Me
