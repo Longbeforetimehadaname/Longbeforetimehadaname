@@ -1,4 +1,4 @@
-# Hey, I'm Pixel 👋
+# Hey, I'm Pixel 
 
 Teenager tinkering with anything tech-related — hardware, software, doesn't matter. Starting an IT apprenticeship in August 2026 and using every day before that (and after) to build stuff and break stuff and figure out why it broke.
 
@@ -21,23 +21,23 @@ Teenager tinkering with anything tech-related — hardware, software, doesn't ma
 
 ---
 
-## 🔧 What I'm Building
+##  What I'm Building
 
 - **My own little robot** — currently fighting a stubborn `camera not supported` error (send help)
 - **Godot 4 experiments** — pixel art, small tidy games and small game prototypes
 - **Python tools** — PDF merging scripts, automation for stuff I got tired of doing by hand
 
-*(Swap these bullets for real repo links once you've got a few pinned — even small/rough ones count!)*
+
 
 ---
-<!--
-## 📊 GitHub Stats
+
+##  GitHub Stats
 
 ![Pixel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Longbeforetimehadaname&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Longbeforetimehadaname&layout=compact&theme=radical)
 ---
--->
-## 📫 Reach Me
+
+##  Reach Me
 
 <!-- Add whatever you're comfortable sharing publicly, e.g.: -->
 - Discord: `finn0853`
