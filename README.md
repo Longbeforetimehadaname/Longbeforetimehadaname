@@ -9,7 +9,7 @@ Teenager tinkering with anything tech-related — hardware, software, doesn't ma
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
